@@ -1,0 +1,7 @@
+C:\Users\22cojeve\source\repos\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\22cojeve\source\repos\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\22cojeve\source\repos\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\22cojeve\source\repos\Calc\Calc\obj\Debug\Calc.csproj.AssemblyReference.cache
+C:\Users\22cojeve\source\repos\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Users\22cojeve\source\repos\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\22cojeve\source\repos\Calc\Calc\obj\Debug\Calc.pdb
